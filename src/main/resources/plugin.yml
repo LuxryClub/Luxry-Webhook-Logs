@@ -1,0 +1,10 @@
+name: Luxry-Webhook-Logs
+version: '1.0.0'
+main: club.luxry.Logs
+commands:
+  reloadlogs:
+    aliases:
+      - rlogs
+  logs:
+    aliases:
+      - log
